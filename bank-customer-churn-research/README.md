@@ -52,4 +52,4 @@
 
 ### 5. Подготовка таргетированных рекомендаций заказчику
 Предложены таргетированные рекомендации для каждого выделенного сегмента и подготовлена презентация для Заказчика.
-https://drive.google.com/file/d/1dK5XzlAhuDFsJPbumuc2CMJcDv--Q8h2
+https://drive.google.com/file/d/1Uij_jTpNi5t0MkBqrKhHb_Rnz0Cifgab
