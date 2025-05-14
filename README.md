@@ -21,7 +21,5 @@
 • Оценка эффективности изменений  
 • Поддержка принятия решений на основе данных  
 
-## Исследование оттока клиентов банка (bank-customer-churn-research)
+## Исследование оттока клиентов банка ([bank-customer-churn-research](https://github.com/azretaloev/yandex-practicum-projects/tree/main/bank-customer-churn-research))
 Проведён анализ данных, составлены портреты клиентов, проверены статистические гипотезы, предложена сегментация клиентов с их приоритизацией, подготовлены заказчику рекомендации и презентация.
-
-[bank-customer-churn-research](https://github.com/azretaloev/yandex-practicum-projects/tree/main/bank-customer-churn-research)
