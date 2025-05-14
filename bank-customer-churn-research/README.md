@@ -1,4 +1,4 @@
-# Исследование оттока клиентов банка
+# Исследование оттока клиентов банка ([bank-customer-churn-research](https://github.com/azretaloev/yandex-practicum-projects/tree/main/bank-customer-churn-research))
 
 ## Данные
 Банк "Метанпром", располагается в Ярославле и областных городах: Ростов Великий и Рыбинск.  
